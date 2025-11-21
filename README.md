@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ❤️ LoveHerRight - Relationship Companion Web App
 
 A complete web application to help you be the best partner by tracking important dates, understanding your partner's cycle, setting reminders, and keeping track of her favorite things.
@@ -236,3 +237,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 Made with ❤️ for better relationships
+=======
+# Love-Her-Right
+TBA
+>>>>>>> ca8f77bdf402c07cdf371a5800114a934d2e7eda
